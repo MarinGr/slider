@@ -11,5 +11,5 @@ export type Button = {
   text: string;
   action?: () => void;
   disabled?: boolean;
-  icon: ReactNode;
+  icon?: ReactNode;
 };

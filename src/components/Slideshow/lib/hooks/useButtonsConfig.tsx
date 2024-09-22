@@ -1,10 +1,8 @@
 import { Dispatch, SetStateAction } from "react";
 import { v4 as uuidv4 } from "uuid";
 import { Slide, Button } from "../../types/Slideshow.types";
-import { CiPlay1 } from "react-icons/ci";
-import { CiPause1 } from "react-icons/ci";
-import { GrCaretNext } from "react-icons/gr";
-import { GrCaretPrevious } from "react-icons/gr";
+import { CiPlay1, CiPause1 } from "react-icons/ci";
+import { GrCaretPrevious, GrCaretNext } from "react-icons/gr";
 
 export const useButtonsConfig = (
   slides: Slide[],
