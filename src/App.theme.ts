@@ -1,0 +1,15 @@
+export const theme = {
+  white: "rgb(255, 255, 255)",
+  primaryColor: "rgb(191, 211, 255)",
+  primaryColorHover: "rgb(121, 143, 221)",
+  primaryColorActive: "rgb(109, 132, 213)",
+  secondaryColor: "rgb(63, 86, 172)",
+  secondaryColorHover: "rgb(55, 77, 160)",
+  secondaryColorActive: "rgb(46, 68, 149)",
+  disabledColor: "rgb(222, 226, 235)",
+  slide1Color: "rgb(250, 239, 167)",
+  slide2Color: "rgb(164, 129, 212)",
+  slide3Color: "rgb(52, 200, 247)",
+  slide4Color: "rgb(73, 192, 135)",
+  slide5Color: "rgb(192, 73, 130)",
+};
